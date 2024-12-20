@@ -1,2 +1,4 @@
-DynamicColorset=Dino Albino
-DynamicColorSetChanceOverride=0.0
+ActiveEventColors=custom
+DynamicColorset=Vermillion,LemmonLime,LightPink,White,LightRed
+DynamicColorSetChanceOverride=0.35
+
